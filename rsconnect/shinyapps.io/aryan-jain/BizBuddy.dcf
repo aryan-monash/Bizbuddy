@@ -1,0 +1,13 @@
+name: BizBuddy
+title: BizBuddy
+username:
+account: aryan-jain
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3286168
+bundleId: 3894083
+url: https://aryan-jain.shinyapps.io/BizBuddy/
+when: 1606118371.56396
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|~$nalReport.docx|AryanJain_31418600_Code.zip|AryanJain_31418600_Report.docx|AryanJain_31418600_Report.pdf|Final report.docx
