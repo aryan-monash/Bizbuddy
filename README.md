@@ -1,4 +1,4 @@
-# Bizbuddy
+# Bizbuddy - Retail Chain Assistance App
 ## Made with Shiny [(Demo)](https://aryan-jain.shinyapps.io/BizBuddy)
 
 With the snowballing growth of globalization, local businesses find it quite challenging competing with global markets. One such area that has suffered significantly is retail. Small and medium scale business may not necessarily have the capital or motivation to hire a team of analyst. Nevertheless, they can still do some elementary analysis, customer segmentation and even predict the growth of their business.
